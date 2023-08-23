@@ -1,0 +1,4 @@
+- 👋 We are @IntrinsicalAI
+- 👀 I’m interested in Machine Leaning
+- 🌱 I’m currently learning CUDA
+- 💞️ I’m looking to collaborate on NVIDIA
